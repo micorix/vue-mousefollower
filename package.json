@@ -5,7 +5,6 @@
   "main": "index.js",
   "author": "micorix",
   "license": "MIT",
-  "homepage": "https://micorix.github.io/vue-mousefollower",
   "bugs": {
     "url": "https://github.com/micorix/vue-mousefollower/issues"
   },

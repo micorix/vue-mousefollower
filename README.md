@@ -1,14 +1,13 @@
 # Vue MouseFollower
 
-*Vue plugin for moving background on mouse move*
+*Vue plugin for moving background on mouse move*  
+*Inspired by https://codepen.io/vajkri/pen/grgQmb*
 
 [DEMO available](https://jsfiddle.net/micorix/v9u8p54e/)
 
 ## Instalation
 
-Get from npm:  ```npm install vue-mousefollower```,  
-from yarn ```yarn add vue-mousefollower```  
-or from bower ```bower install vue-mousefollower```
+Get from npm:  ```npm install vue-mousefollower``` or from yarn ```yarn add vue-mousefollower```
 
 ## Usage
 
