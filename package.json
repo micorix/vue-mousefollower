@@ -1,0 +1,8 @@
+{
+  "name": "vue-mousefollower",
+  "version": "0.0.1",
+  "description": "Vue plugin for moving background-position on mouse move",
+  "main": "index.js",
+  "author": "micorix",
+  "license": "MIT"
+}
