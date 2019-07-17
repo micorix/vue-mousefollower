@@ -14,7 +14,7 @@ Get from npm:  ```npm install vue-mousefollower``` or from yarn ```yarn add vue-
 ```javascript
 // main.js
 import Vue from 'vue'
-import { VueMouseFollower } from 'vue-mousefollower'
+import VueMouseFollower from 'vue-mousefollower'
 
 Vue.use(VueMouseFollower)
 ```
